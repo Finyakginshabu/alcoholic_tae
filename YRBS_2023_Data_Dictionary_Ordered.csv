@@ -1,0 +1,704 @@
+Variable,Question_Description,Value,Value_Meaning
+Q1,How old are you,1,12 years old or younger
+Q1,How old are you,2,13 years old
+Q1,How old are you,3,14 years old
+Q1,How old are you,4,15 years old
+Q1,How old are you,5,16 years old
+Q1,How old are you,6,17 years old
+Q1,How old are you,7,18 years old or older
+Q2,What is your sex,1,Female
+Q2,What is your sex,2,Male
+Q3,In what grade are you,1,9th grade
+Q3,In what grade are you,2,10th grade
+Q3,In what grade are you,3,11th grade
+Q3,In what grade are you,4,12th grade
+Q3,In what grade are you,5,Ungraded or other grade
+Q4,Are you Hispanic/Latino,1,Yes
+Q4,Are you Hispanic/Latino,2,No
+Q5,What is your race,,
+Q6,How tall are you,,
+Q7,How much do you weigh,,
+Q8,Seat belt use,1,Never
+Q8,Seat belt use,2,Rarely
+Q8,Seat belt use,3,Sometimes
+Q8,Seat belt use,4,Most of the time
+Q8,Seat belt use,5,Always
+Q9,Riding with a drinking driver,1,0 times
+Q9,Riding with a drinking driver,2,1 time
+Q9,Riding with a drinking driver,3,2 or 3 times
+Q9,Riding with a drinking driver,4,4 or 5 times
+Q9,Riding with a drinking driver,5,6 or more times
+Q10,Drinking and driving,1,Did not drive
+Q10,Drinking and driving,2,Did not drive when drinking
+Q10,Drinking and driving,3,1 time
+Q10,Drinking and driving,4,2 or 3 times
+Q10,Drinking and driving,5,4 or 5 times
+Q10,Drinking and driving,6,6 or more times
+Q11,Texting and driving,1,Did not drive
+Q11,Texting and driving,2,Did not text while driving
+Q11,Texting and driving,3,1 or 2 days
+Q11,Texting and driving,4,3 to 5 days
+Q11,Texting and driving,5,6 to 9 days
+Q11,Texting and driving,6,10 to 19 days
+Q11,Texting and driving,7,20 to 29 days
+Q11,Texting and driving,8,All 30 days
+Q12,Weapon carrying at school,1,0 days
+Q12,Weapon carrying at school,2,1 day
+Q12,Weapon carrying at school,3,2 or 3 days
+Q12,Weapon carrying at school,4,4 or 5 days
+Q12,Weapon carrying at school,5,6 or more days
+Q13,Gun carrying,1,0 days
+Q13,Gun carrying,2,1 day
+Q13,Gun carrying,3,2 or 3 days
+Q13,Gun carrying,4,4 or 5 days
+Q13,Gun carrying,5,6 or more days
+Q14,Safety concerns at school,1,0 days
+Q14,Safety concerns at school,2,1 day
+Q14,Safety concerns at school,3,2 or 3 days
+Q14,Safety concerns at school,4,4 or 5 days
+Q14,Safety concerns at school,5,6 or more days
+Q15,Threatened at school,1,0 times
+Q15,Threatened at school,2,1 time
+Q15,Threatened at school,3,2 or 3 times
+Q15,Threatened at school,4,4 or 5 times
+Q15,Threatened at school,5,6 or 7 times
+Q15,Threatened at school,6,8 or 9 times
+Q15,Threatened at school,7,10 or 11 times
+Q15,Threatened at school,8,12 or more times
+Q16,Times in fight past 12 months,1,0 times
+Q16,Times in fight past 12 months,2,1 time
+Q16,Times in fight past 12 months,3,2 or 3 times
+Q16,Times in fight past 12 months,4,4 or 5 times
+Q16,Times in fight past 12 months,5,6 or 7 times
+Q16,Times in fight past 12 months,6,8 or 9 times
+Q16,Times in fight past 12 months,7,10 or 11 times
+Q16,Times in fight past 12 months,8,12 or more times
+Q17,Physical fighting at school,1,0 times
+Q17,Physical fighting at school,2,1 time
+Q17,Physical fighting at school,3,2 or 3 times
+Q17,Physical fighting at school,4,4 or 5 times
+Q17,Physical fighting at school,5,6 or 7 times
+Q17,Physical fighting at school,6,8 or 9 times
+Q17,Physical fighting at school,7,10 or 11 times
+Q17,Physical fighting at school,8,12 or more times
+Q18,Saw physical violence in neighborhood,1,Yes
+Q18,Saw physical violence in neighborhood,2,No
+Q19,Ever been physically forced sexual intercourse,1,Yes
+Q19,Ever been physically forced sexual intercourse,2,No
+Q20,Sexual violence,1,0 times
+Q20,Sexual violence,2,1 time
+Q20,Sexual violence,3,2 or 3 times
+Q20,Sexual violence,4,4 or 5 times
+Q20,Sexual violence,5,6 or more times
+Q21,Sexual dating violence,1,Did not date
+Q21,Sexual dating violence,2,0 times
+Q21,Sexual dating violence,3,1 time
+Q21,Sexual dating violence,4,2 or 3 times
+Q21,Sexual dating violence,5,4 or 5 times
+Q21,Sexual dating violence,6,6 or more times
+Q22,Physical dating violence,1,Did not date
+Q22,Physical dating violence,2,0 times
+Q22,Physical dating violence,3,1 time
+Q22,Physical dating violence,4,2 or 3 times
+Q22,Physical dating violence,5,4 or 5 times
+Q22,Physical dating violence,6,6 or more times
+Q23,treated unfairly in school b/c race/ethnicity,1,Never
+Q23,treated unfairly in school b/c race/ethnicity,2,Rarely
+Q23,treated unfairly in school b/c race/ethnicity,3,Sometimes
+Q23,treated unfairly in school b/c race/ethnicity,4,Most of the time
+Q23,treated unfairly in school b/c race/ethnicity,5,Always
+Q24,Bullied at school,1,Yes
+Q24,Bullied at school,2,No
+Q25,Electronic bullying,1,Yes
+Q25,Electronic bullying,2,No
+Q26,Sad or hopeless,1,Yes
+Q26,Sad or hopeless,2,No
+Q27,Considered suicide,1,Yes
+Q27,Considered suicide,2,No
+Q28,Made a suicide plan past 12 months,1,Yes
+Q28,Made a suicide plan past 12 months,2,No
+Q29,Actually attempted suicide,1,0 times
+Q29,Actually attempted suicide,2,1 time
+Q29,Actually attempted suicide,3,2 or 3 times
+Q29,Actually attempted suicide,4,4 or 5 times
+Q29,Actually attempted suicide,5,6 or more times
+Q30,Injurious suicide attempt,1,Did not attempt suicide
+Q30,Injurious suicide attempt,2,Yes
+Q30,Injurious suicide attempt,3,No
+Q31,Ever cigarette use,1,Yes
+Q31,Ever cigarette use,2,No
+Q32,Initiation of cigarette smoking,1,Never smoked a cigarette
+Q32,Initiation of cigarette smoking,2,8 years old or younger
+Q32,Initiation of cigarette smoking,3,9 or 10 years old
+Q32,Initiation of cigarette smoking,4,11 or 12 years old
+Q32,Initiation of cigarette smoking,5,13 or 14 years old
+Q32,Initiation of cigarette smoking,6,15 or 16 years old
+Q32,Initiation of cigarette smoking,7,17 years old or older
+Q33,Current cigarette use,1,0 days
+Q33,Current cigarette use,2,1 or 2 days
+Q33,Current cigarette use,3,3 to 5 days
+Q33,Current cigarette use,4,6 to 9 days
+Q33,Current cigarette use,5,10 to 19 days
+Q33,Current cigarette use,6,20 to 29 days
+Q33,Current cigarette use,7,All 30 days
+Q34,Smoked >10 cigarettes,1,Did not smoke cigarettes
+Q34,Smoked >10 cigarettes,2,Less than 1 cigarette
+Q34,Smoked >10 cigarettes,3,1 cigarette
+Q34,Smoked >10 cigarettes,4,2 to 5 cigarettes
+Q34,Smoked >10 cigarettes,5,6 to 10 cigarettes
+Q34,Smoked >10 cigarettes,6,11 to 20 cigarettes
+Q34,Smoked >10 cigarettes,7,More than 20 cigarettes
+Q35,Electronic vapor product use,1,Yes
+Q35,Electronic vapor product use,2,No
+Q36,Current electronic vapor product use,1,0 days
+Q36,Current electronic vapor product use,2,1 or 2 days
+Q36,Current electronic vapor product use,3,3 to 5 days
+Q36,Current electronic vapor product use,4,6 to 9 days
+Q36,Current electronic vapor product use,5,10 to 19 days
+Q36,Current electronic vapor product use,6,20 to 29 days
+Q36,Current electronic vapor product use,7,All 30 days
+Q37,EVP from store,1,Did not use EVP
+Q37,EVP from store,2,Friend or family
+Q37,EVP from store,3,Vape shop or tobacco shop
+Q37,EVP from store,4,Store or gas station
+Q37,EVP from store,5,Mall kiosk or stand
+Q37,EVP from store,6,Internet
+Q37,EVP from store,7,Took from a store
+Q37,EVP from store,8,Some other way
+Q38,Current smokeless tobacco use,1,0 days
+Q38,Current smokeless tobacco use,2,1 or 2 days
+Q38,Current smokeless tobacco use,3,3 to 5 days
+Q38,Current smokeless tobacco use,4,6 to 9 days
+Q38,Current smokeless tobacco use,5,10 to 19 days
+Q38,Current smokeless tobacco use,6,20 to 29 days
+Q38,Current smokeless tobacco use,7,All 30 days
+Q39,Current cigar use,1,0 days
+Q39,Current cigar use,2,1 or 2 days
+Q39,Current cigar use,3,3 to 5 days
+Q39,Current cigar use,4,6 to 9 days
+Q39,Current cigar use,5,10 to 19 days
+Q39,Current cigar use,6,20 to 29 days
+Q39,Current cigar use,7,All 30 days
+Q40,All tobacco product cessation,1,Did not use tobacco products
+Q40,All tobacco product cessation,2,Yes
+Q40,All tobacco product cessation,3,No
+Q41,Initiation of alcohol use,1,Never drank alcohol
+Q41,Initiation of alcohol use,2,8 years old or younger
+Q41,Initiation of alcohol use,3,9 or 10 years old
+Q41,Initiation of alcohol use,4,11 or 12 years old
+Q41,Initiation of alcohol use,5,13 or 14 years old
+Q41,Initiation of alcohol use,6,15 or 16 years old
+Q41,Initiation of alcohol use,7,17 years old or older
+Q42,Current alcohol use,1,0 days
+Q42,Current alcohol use,2,1 or 2 days
+Q42,Current alcohol use,3,3 to 5 days
+Q42,Current alcohol use,4,6 to 9 days
+Q42,Current alcohol use,5,10 to 19 days
+Q42,Current alcohol use,6,20 to 29 days
+Q42,Current alcohol use,7,All 30 days
+Q43,Current binge drinking,1,0 days
+Q43,Current binge drinking,2,1 day
+Q43,Current binge drinking,3,2 days
+Q43,Current binge drinking,4,3 to 5 days
+Q43,Current binge drinking,5,6 to 9 days
+Q43,Current binge drinking,6,10 to 19 days
+Q43,Current binge drinking,7,20 or more days
+Q44,Drinks in a row past 30 days,1,Did not drink in past 30 days
+Q44,Drinks in a row past 30 days,2,1 or 2 drinks
+Q44,Drinks in a row past 30 days,3,3 drinks
+Q44,Drinks in a row past 30 days,4,4 drinks
+Q44,Drinks in a row past 30 days,5,5 drinks
+Q44,Drinks in a row past 30 days,6,6 or 7 drinks
+Q44,Drinks in a row past 30 days,7,8 or 9 drinks
+Q44,Drinks in a row past 30 days,8,10 or more drinks
+Q45,Source of alcohol,1,Did not drink in past 30 days
+Q45,Source of alcohol,2,Bought in store
+Q45,Source of alcohol,3,Bought in restaurant
+Q45,Source of alcohol,4,Bought at public event
+Q45,Source of alcohol,5,I gave someone money to buy
+Q45,Source of alcohol,6,Someone gave it to me
+Q46,Ever marijuana use,1,0 times
+Q46,Ever marijuana use,2,1 or 2 times
+Q46,Ever marijuana use,3,3 to 9 times
+Q46,Ever marijuana use,4,10 to 19 times
+Q46,Ever marijuana use,5,20 to 39 times
+Q46,Ever marijuana use,6,40 to 99 times
+Q46,Ever marijuana use,7,100 or more times
+Q47,Initiation of marijuana use,1,Never tried marijuana
+Q47,Initiation of marijuana use,2,8 years old or younger
+Q47,Initiation of marijuana use,3,9 or 10 years old
+Q47,Initiation of marijuana use,4,11 or 12 years old
+Q47,Initiation of marijuana use,5,13 or 14 years old
+Q47,Initiation of marijuana use,6,15 or 16 years old
+Q47,Initiation of marijuana use,7,17 years old or older
+Q48,Current marijuana use,1,0 times
+Q48,Current marijuana use,2,1 or 2 times
+Q48,Current marijuana use,3,3 to 9 times
+Q48,Current marijuana use,4,10 to 19 times
+Q48,Current marijuana use,5,20 to 39 times
+Q48,Current marijuana use,6,40 or more times
+Q49,Ever prescription pain medicine use,1,0 times
+Q49,Ever prescription pain medicine use,2,1 or 2 times
+Q49,Ever prescription pain medicine use,3,3 to 9 times
+Q49,Ever prescription pain medicine use,4,10 to 19 times
+Q49,Ever prescription pain medicine use,5,20 to 39 times
+Q49,Ever prescription pain medicine use,6,40 or more times
+Q50,Ever cocaine use,1,0 times
+Q50,Ever cocaine use,2,1 or 2 times
+Q50,Ever cocaine use,3,3 to 9 times
+Q50,Ever cocaine use,4,10 to 19 times
+Q50,Ever cocaine use,5,20 to 39 times
+Q50,Ever cocaine use,6,40 or more times
+Q51,Ever inhalant use,1,0 times
+Q51,Ever inhalant use,2,1 or 2 times
+Q51,Ever inhalant use,3,3 to 9 times
+Q51,Ever inhalant use,4,10 to 19 times
+Q51,Ever inhalant use,5,20 to 39 times
+Q51,Ever inhalant use,6,40 or more times
+Q52,Ever heroin use,1,0 times
+Q52,Ever heroin use,2,1 or 2 times
+Q52,Ever heroin use,3,3 to 9 times
+Q52,Ever heroin use,4,10 to 19 times
+Q52,Ever heroin use,5,20 to 39 times
+Q52,Ever heroin use,6,40 or more times
+Q53,Ever methamphetamine use,1,0 times
+Q53,Ever methamphetamine use,2,1 or 2 times
+Q53,Ever methamphetamine use,3,3 to 9 times
+Q53,Ever methamphetamine use,4,10 to 19 times
+Q53,Ever methamphetamine use,5,20 to 39 times
+Q53,Ever methamphetamine use,6,40 or more times
+Q54,Ever ecstasy use,1,0 times
+Q54,Ever ecstasy use,2,1 or 2 times
+Q54,Ever ecstasy use,3,3 to 9 times
+Q54,Ever ecstasy use,4,10 to 19 times
+Q54,Ever ecstasy use,5,20 to 39 times
+Q54,Ever ecstasy use,6,40 or more times
+Q55,Illegal injected drug use,1,0 times
+Q55,Illegal injected drug use,2,1 time
+Q55,Illegal injected drug use,3,2 or more times
+Q56,Ever sexual intercourse,1,Yes
+Q56,Ever sexual intercourse,2,No
+Q57,Sex before 13 years,1,Never had sex
+Q57,Sex before 13 years,2,11 years old or younger
+Q57,Sex before 13 years,3,12 years old
+Q57,Sex before 13 years,4,13 years old
+Q57,Sex before 13 years,5,14 years old
+Q57,Sex before 13 years,6,15 years old
+Q57,Sex before 13 years,7,16 years old
+Q57,Sex before 13 years,8,17 years old or older
+Q58,Number of sex partners,1,Never had sex
+Q58,Number of sex partners,2,1 person
+Q58,Number of sex partners,3,2 people
+Q58,Number of sex partners,4,3 people
+Q58,Number of sex partners,5,4 people
+Q58,Number of sex partners,6,5 people
+Q58,Number of sex partners,7,6 or more people
+Q59,Current sexual activity,1,Never had sex
+Q59,Current sexual activity,2,None during past 3 months
+Q59,Current sexual activity,3,1 person
+Q59,Current sexual activity,4,2 people
+Q59,Current sexual activity,5,3 people
+Q59,Current sexual activity,6,4 people
+Q59,Current sexual activity,7,5 people
+Q59,Current sexual activity,8,6 or more people
+Q60,Alcohol/drugs and sex,1,Never had sex
+Q60,Alcohol/drugs and sex,2,Yes
+Q60,Alcohol/drugs and sex,3,No
+Q61,Condom use,1,Never had sex
+Q61,Condom use,2,Yes
+Q61,Condom use,3,No
+Q62,Birth control pill use,1,Never had sex
+Q62,Birth control pill use,2,No birth control
+Q62,Birth control pill use,3,Birth control pills
+Q62,Birth control pill use,4,Condoms
+Q62,Birth control pill use,5,IUD or implant
+Q63,Sex of sexual contacts,1,Never had sexual contact
+Q63,Sex of sexual contacts,2,Females
+Q63,Sex of sexual contacts,3,Males
+Q63,Sex of sexual contacts,4,Females and males
+Q64,Sexual identity,1,Heterosexual (straight)
+Q64,Sexual identity,2,Gay or lesbian
+Q64,Sexual identity,3,Bisexual
+Q64,Sexual identity,4,Some other way
+Q64,Sexual identity,5,Not sure
+Q64,Sexual identity,6,Don't know what this means
+Q65,Transgender,1,No
+Q65,Transgender,2,"Yes, I am transgender"
+Q65,Transgender,3,Not sure if I am transgender
+Q65,Transgender,4,Don't know what this means
+Q66,Perception of weight,1,Very underweight
+Q66,Perception of weight,2,Slightly underweight
+Q66,Perception of weight,3,About the right weight
+Q66,Perception of weight,4,Slightly overweight
+Q66,Perception of weight,5,Very overweight
+Q67,Weight loss,1,Lose weight
+Q67,Weight loss,2,Gain weight
+Q67,Weight loss,3,Stay the same weight
+Q67,Weight loss,4,Not trying to do anything
+Q68,Fruit juice drinking,1,Did not drink fruit juice
+Q68,Fruit juice drinking,2,1 to 3 times
+Q68,Fruit juice drinking,3,4 to 6 times
+Q68,Fruit juice drinking,4,1 time per day
+Q68,Fruit juice drinking,5,2 times per day
+Q68,Fruit juice drinking,6,3 times per day
+Q68,Fruit juice drinking,7,4 or more times per day
+Q69,Fruit eating,1,Did not eat fruit
+Q69,Fruit eating,2,1 to 3 times
+Q69,Fruit eating,3,4 to 6 times
+Q69,Fruit eating,4,1 time per day
+Q69,Fruit eating,5,2 times per day
+Q69,Fruit eating,6,3 times per day
+Q69,Fruit eating,7,4 or more times per day
+Q70,Green salad eating,1,Did not eat green salad
+Q70,Green salad eating,2,1 to 3 times
+Q70,Green salad eating,3,4 to 6 times
+Q70,Green salad eating,4,1 time per day
+Q70,Green salad eating,5,2 times per day
+Q70,Green salad eating,6,3 times per day
+Q70,Green salad eating,7,4 or more times per day
+Q71,Potato eating,1,Did not eat potatoes
+Q71,Potato eating,2,1 to 3 times
+Q71,Potato eating,3,4 to 6 times
+Q71,Potato eating,4,1 time per day
+Q71,Potato eating,5,2 times per day
+Q71,Potato eating,6,3 times per day
+Q71,Potato eating,7,4 or more times per day
+Q72,Carrot eating,1,Did not eat carrots
+Q72,Carrot eating,2,1 to 3 times
+Q72,Carrot eating,3,4 to 6 times
+Q72,Carrot eating,4,1 time per day
+Q72,Carrot eating,5,2 times per day
+Q72,Carrot eating,6,3 times per day
+Q72,Carrot eating,7,4 or more times per day
+Q73,Other vegetable eating,1,Did not eat other vegetables
+Q73,Other vegetable eating,2,1 to 3 times
+Q73,Other vegetable eating,3,4 to 6 times
+Q73,Other vegetable eating,4,1 time per day
+Q73,Other vegetable eating,5,2 times per day
+Q73,Other vegetable eating,6,3 times per day
+Q73,Other vegetable eating,7,4 or more times per day
+Q74,No soda drinking,1,Did not drink soda or pop
+Q74,No soda drinking,2,1 to 3 times
+Q74,No soda drinking,3,4 to 6 times
+Q74,No soda drinking,4,1 time per day
+Q74,No soda drinking,5,2 times per day
+Q74,No soda drinking,6,3 times per day
+Q74,No soda drinking,7,4 or more times per day
+Q75,Breakfast eating,1,0 days
+Q75,Breakfast eating,2,1 day
+Q75,Breakfast eating,3,2 days
+Q75,Breakfast eating,4,3 days
+Q75,Breakfast eating,5,4 days
+Q75,Breakfast eating,6,5 days
+Q75,Breakfast eating,7,6 days
+Q75,Breakfast eating,8,7 days
+Q76,Physical activity >= 5 days,1,0 days
+Q76,Physical activity >= 5 days,2,1 day
+Q76,Physical activity >= 5 days,3,2 days
+Q76,Physical activity >= 5 days,4,3 days
+Q76,Physical activity >= 5 days,5,4 days
+Q76,Physical activity >= 5 days,6,5 days
+Q76,Physical activity >= 5 days,7,6 days
+Q76,Physical activity >= 5 days,8,7 days
+Q77,PE attendance,1,0 days
+Q77,PE attendance,2,1 day
+Q77,PE attendance,3,2 days
+Q77,PE attendance,4,3 days
+Q77,PE attendance,5,4 days
+Q77,PE attendance,6,5 days
+Q78,Sports team participation,1,0 teams
+Q78,Sports team participation,2,1 team
+Q78,Sports team participation,3,2 teams
+Q78,Sports team participation,4,3 or more teams
+Q79,Concussion,1,0 times
+Q79,Concussion,2,1 time
+Q79,Concussion,3,2 times
+Q79,Concussion,4,3 times
+Q79,Concussion,5,4 or more times
+Q80,Social media,1,I do not use social media
+Q80,Social media,2,A few times a month
+Q80,Social media,3,About once a week
+Q80,Social media,4,A few times a week
+Q80,Social media,5,About once a day
+Q80,Social media,6,Several times a day
+Q80,Social media,7,About once an hour
+Q80,Social media,8,More than once an hour
+Q81,HIV testing,1,Yes
+Q81,HIV testing,2,No
+Q81,HIV testing,3,Not sure
+Q82,STD testing,1,Yes
+Q82,STD testing,2,No
+Q82,STD testing,3,Not sure
+Q83,Oral health care,1,During the past 12 months
+Q83,Oral health care,2,Between 12 and 24 months ago
+Q83,Oral health care,3,More than 24 months ago
+Q83,Oral health care,4,Never
+Q83,Oral health care,5,Not sure
+Q84,Current mental health,1,Never
+Q84,Current mental health,2,Rarely
+Q84,Current mental health,3,Sometimes
+Q84,Current mental health,4,Most of the time
+Q84,Current mental health,5,Always
+Q85,Hours of sleep on school night,1,4 or less hours
+Q85,Hours of sleep on school night,2,5 hours
+Q85,Hours of sleep on school night,3,6 hours
+Q85,Hours of sleep on school night,4,7 hours
+Q85,Hours of sleep on school night,5,8 hours
+Q85,Hours of sleep on school night,6,9 hours
+Q85,Hours of sleep on school night,7,10 or more hours
+Q86,Unstable Housing,1,Home of parent or gaurdian
+Q86,Unstable Housing,2,Home of other people
+Q86,Unstable Housing,3,Shelter or emergency housing
+Q86,Unstable Housing,4,Motel or hotel
+Q86,Unstable Housing,5,Public place
+Q86,Unstable Housing,6,No usual place
+Q86,Unstable Housing,7,Somewhere else
+Q87,Grades in school,1,Mostly A's
+Q87,Grades in school,2,Mostly B's
+Q87,Grades in school,3,Mostly C's
+Q87,Grades in school,4,Mostly D's
+Q87,Grades in school,5,Mostly F's
+Q87,Grades in school,6,None of these grades
+Q87,Grades in school,7,Not sure
+Q88,Ever sexual abuse by adult or older person ACEs,1,Yes
+Q88,Ever sexual abuse by adult or older person ACEs,2,No
+Q89,Ever parental emotional abuse ACEs,1,Never
+Q89,Ever parental emotional abuse ACEs,2,Rarely
+Q89,Ever parental emotional abuse ACEs,3,Sometimes
+Q89,Ever parental emotional abuse ACEs,4,Most of the time
+Q89,Ever parental emotional abuse ACEs,5,Always
+Q90,Ever parental physical abuse ACEs,1,Never
+Q90,Ever parental physical abuse ACEs,2,Rarely
+Q90,Ever parental physical abuse ACEs,3,Sometimes
+Q90,Ever parental physical abuse ACEs,4,Most of the time
+Q90,Ever parental physical abuse ACEs,5,Always
+Q91,Adults in home intimate partner violence ACEs,1,Never
+Q91,Adults in home intimate partner violence ACEs,2,Rarely
+Q91,Adults in home intimate partner violence ACEs,3,Sometimes
+Q91,Adults in home intimate partner violence ACEs,4,Most of the time
+Q91,Adults in home intimate partner violence ACEs,5,Always
+Q92,Current Rx Pain med w/out Rx,1,0 times
+Q92,Current Rx Pain med w/out Rx,2,1 or 2 times
+Q92,Current Rx Pain med w/out Rx,3,3 to 9 times
+Q92,Current Rx Pain med w/out Rx,4,10 to 19 times
+Q92,Current Rx Pain med w/out Rx,5,20 to 39 times
+Q92,Current Rx Pain med w/out Rx,6,40 or more times
+Q93,Ever used hallucinogenic drugs,1,0 times
+Q93,Ever used hallucinogenic drugs,2,1 or 2 times
+Q93,Ever used hallucinogenic drugs,3,3 to 9 times
+Q93,Ever used hallucinogenic drugs,4,10 to 19 times
+Q93,Ever used hallucinogenic drugs,5,20 to 39 times
+Q93,Ever used hallucinogenic drugs,6,40 or more times
+Q94,If verbally asked for consent last sexual contact,1,Never had sexual contact
+Q94,If verbally asked for consent last sexual contact,2,Yes
+Q94,If verbally asked for consent last sexual contact,3,No
+Q95,Sports drinks,1,I did not drink
+Q95,Sports drinks,2,1 to 3 times
+Q95,Sports drinks,3,4 to 6 times
+Q95,Sports drinks,4,1 time per day
+Q95,Sports drinks,5,2 times per day
+Q95,Sports drinks,6,3 times per day
+Q95,Sports drinks,7,4 or more times per day
+Q96,Plain water,1,Did not drink water
+Q96,Plain water,2,1 to 3 times
+Q96,Plain water,3,4 to 6 times
+Q96,Plain water,4,1 time per day
+Q96,Plain water,5,2 times per day
+Q96,Plain water,6,3 times per day
+Q96,Plain water,7,4 or more times per day
+Q97,Muscle strengthening,1,0 days
+Q97,Muscle strengthening,2,1 day
+Q97,Muscle strengthening,3,2 days
+Q97,Muscle strengthening,4,3 days
+Q97,Muscle strengthening,5,4 days
+Q97,Muscle strengthening,6,5 days
+Q97,Muscle strengthening,7,6 days
+Q97,Muscle strengthening,8,7 days
+Q98,Sunburn,1,0 times
+Q98,Sunburn,2,1 time
+Q98,Sunburn,3,2 times
+Q98,Sunburn,4,3 times
+Q98,Sunburn,5,4 times
+Q98,Sunburn,6,5 or more times
+Q99,How often household adult met basic needs ACEs,1,Never
+Q99,How often household adult met basic needs ACEs,2,Rarely
+Q99,How often household adult met basic needs ACEs,3,Sometimes
+Q99,How often household adult met basic needs ACEs,4,Most of the time
+Q99,How often household adult met basic needs ACEs,5,Always
+Q100,Ever lived w/parent/guardian w/substance abuse ACE,1,Yes
+Q100,Ever lived w/parent/guardian w/substance abuse ACE,2,No
+Q101,Ever lived with parent/guardian w mental illness A,1,Yes
+Q101,Ever lived with parent/guardian w mental illness A,2,No
+Q102,Ever incarcerated parent/guardian ACEs,1,Yes
+Q102,Ever incarcerated parent/guardian ACEs,2,No
+Q103,Feel close to people at their school,1,Strongly agree
+Q103,Feel close to people at their school,2,Agree
+Q103,Feel close to people at their school,3,Not sure
+Q103,Feel close to people at their school,4,Disagree
+Q103,Feel close to people at their school,5,Strongly disagree
+Q104,Parental monitoring,1,Never
+Q104,Parental monitoring,2,Rarely
+Q104,Parental monitoring,3,Sometimes
+Q104,Parental monitoring,4,Most of the time
+Q104,Parental monitoring,5,Always
+Q105,Unfairly disciplined at school,1,Yes
+Q105,Unfairly disciplined at school,2,No
+Q106,Difficulty concentrating,1,Yes
+Q106,Difficulty concentrating,2,No
+Q107,How well speak English,1,Very well
+Q107,How well speak English,2,Well
+Q107,How well speak English,3,Not well
+Q107,How well speak English,4,Not at all
+QN8,Did not always wear a seat belt,,
+QN9,Rode with a driver who had been drinking alcohol,,
+QN10,Drove a car or other vehicle when they had been drinking alcohol,,
+QN11,Texted or e-mailed while driving a car or other vehicle	,,
+QN12,Carried a weapon on school property,,
+QN13,Carried a gun,,
+QN14,Did not go to school because they felt unsafe at school or on their way to or from school,,
+QN15,Were threatened or injured with a weapon on school property,,
+QN16,Were in a physical fight,,
+QN17,Were in a physical fight on school property,,
+QN18,"Ever saw someone get physically attacked, beaten, stabbed, or shot in their neighborhood",,
+QN19,Were ever physically forced to have sexual intercourse,,
+QN20,Experienced sexual violence,,
+QN21,Experienced sexual dating violence,,
+QN22,Experienced physical dating violence,,
+QN23,Felt that they were ever treated badly or unfairly in school because of their race or ethnicity,,
+QN24,Were bullied on school property,,
+QN25,Were electronically bullied,,
+QN26,Felt sad or hopeless,,
+QN27,Seriously considered attempting suicide,,
+QN28,Made a plan about how they would attempt suicide,,
+QN29,Attempted suicide,,
+QN30,"Had a suicide attempt that resulted in an injury, poisoning, or overdose that had to be treated by a doctor or nurse",,
+QN31,Ever smoked a cigarette,,
+QN32,Smoked a cigarette before age 13 years,,
+QN33,Currently smoked cigarettes,,
+QN34,Smoked more than 10 cigarettes per day,,
+QN35,Ever used an electronic vapor product,,
+QN36,Currently used an electronic vapor product,,
+QN37,"Usually got their electronic vapor products by buying them themselves in a convenience store, supermarket, discount store, or gas station",,
+QN38,Currently used smokeless tobacco,,
+QN39,Currently smoked cigars,,
+QN40,Tried to quit using all tobacco products,,
+QN41,Had their first drink of alcohol before age 13 years,,
+QN42,Currently drank alcohol,,
+QN43,Currently were binge drinking,,
+QN44,Reported that the largest number of drinks they had in a row was 10 or more,,
+QN45,Usually got the alcohol they drank by someone giving it to them,,
+QN46,Ever used marijuana,,
+QN47,tried marijuana for the first time before age 13 years,,
+QN48,Currently used marijuana,,
+QN49,Ever took prescription pain medicine without a doctor's prescription or differently than how a doctor told them to use it,,
+QN50,Ever used cocaine,,
+QN51,Ever used inhalants,,
+QN52,Ever used heroin,,
+QN53,Ever used methamphetamines,,
+QN54,Ever used ecstasy,,
+QN55,Ever injected any illegal drug,,
+QN56,Ever had sexual intercourse,,
+QN57,Had sexual intercourse for the first time before age 13 years,,
+QN58,Had sexual intercourse with four or more persons during their life,,
+QN59,Were currently sexually active,,
+QN60,Drank alcohol or used drugs before last sexual intercourse,,
+QN61,Used a condom during last sexual intercourse,,
+QN62,Used birth control pills before last sexual intercourse with opposite-sex partner,,
+QN66,Described themselves as slightly or very overweight,,
+QN67,Were trying to lose weight,,
+QN68,Did not drink fruit juice,,
+QN69,Did not eat fruit,,
+QN70,Did not eat green salad,,
+QN71,Did not eat potatoes,,
+QN72,Did not eat carrots,,
+QN73,Did not eat other vegetables,,
+QN74,"Did not drink a can, bottle, or glass of soda or pop",,
+QN75,Did not eat breakfast,,
+QN76,Were physically active at least 60 minutes per day on 5 or more days,,
+QN77,Attended physical education (PE) classes on 1 or more days,,
+QN78,Played on at least one sports team,,
+QN79,Had a concussion from playing a sport or being physically active,,
+QN80,Used social media several times a day,,
+QN81,Were ever tested for human immunodeficiency virus (HIV),,
+QN82,Were ever tested for a sexually transmitted disease (STD),,
+QN83,Saw a dentist,,
+QN84,Reported that their mental health was most of the time or always not good,,
+QN85,Got 8 or more hours of sleep,,
+QN86,Experienced unstable housing,,
+QN87,Described their grades in school as mostly A''s or B''s,,
+QN88,Reported that an adult or person at least 5 years older than them ever made them do sexual things they did not want to do,,
+QN89,Reported that a parent or other adult in their home most of the time or always insulted them or put them down,,
+QN90,"Reported that a parent or other adult in their home most of the time or always hit, beat, kicked, or physically hurt them in any way",,
+QN91,"Reported that their parents or other adults in their home most of the time or always slapped, hit, kicked, punched, or beat each other up",,
+QN92,currently took prescription pain medicine without a doctor's prescription or differently than how a doctor told them to use it,,
+QN93,ever used hallucinogenic drugs,,
+QN94,Verbally asked for consent the last time they had sexual contact,,
+QN95,"did not drink a can, bottle, or glass of a sports drink",,
+QN96,did not drink a bottle or glass of plain water,,
+QN97,did exercises to strengthen or tone their muscles on three or more days,,
+QN98,had a sunburn,,
+QN99,Reported that an adult in their household most of the time or always tried to make sure their basic needs were met,,
+QN100,ever lived with a parent or guardian who was having a problem with alcohol or drug use,,
+QN101,"ever lived with a parent or guardian who had severe depression, anxiety, or another mental illness, or was suicidal",,
+QN102,"Have ever been separated from a parent or guardian because they went to jail, prison, or a detention center",,
+QN103,strongly agree or agree that they feel close to people at their school,,
+QN104,reported that their parents or other adults in their family most of the time or always know where they are going or with whom they will be,,
+QN105,have been unfairly disciplined at school,,
+QN106,"have serious difficulty concentrating, remembering, or making decisions",,
+QN107,speak English well or very well,,
+SITE,Site Code,,
+QNFRCIG,Currently smoked cigarettes frequently,,
+QNDAYCIG,Currently smoked cigarettes daily,,
+QNFREVP,Currently used electronic vapor products frequently,,
+QNDAYEVP,Currently used electronic vapor products daily,,
+QNFRSKL,Currently used smokeless tobacco frequently,,
+QNDAYSKL,Currently used smokeless tobacco daily,,
+QNFRCGR,Currently smoked cigars frequently,,
+QNDAYCGR,Currently smoked cigars daily,,
+QNTB2,Currently smoked cigarettes or cigars,,
+QNTB3,Currently smoked cigarettes or cigars or used smokeless tobacco,,
+QNTB4,Currently smoked cigarettes or cigars or used smokeless tobacco or electronic vapor products,,
+QNTB5,Currently smoked cigarettes or used electronic vapor products,,
+QNIUDIMP,Used an IUD (such as Mirena or ParaGard) or implant (such as Implanon or Nexplanon) before last sexual intercourse with an opposite-sex partner,,
+QNOTHHPL,"Used birth control pills; an IUD or implant; or a shot, patch, or birth control ring before last sexual intercourse with an opposite-sex partner",,
+QNDUALBC,"Used both a condom during last sexual intercourse and birth control pills; an IUD or implant; or a shot, patch, or birth control ring before last sexual intercourse with an opposite-sex partner",,
+QNBCNONE,Did not use any method to prevent pregnancy during last sexual intercourse with an opposite-sex partner,,
+QNFR0,Did not eat fruit or drink 100% fruit juices,,
+QNFR1,Ate fruit or drank 100% fruit juices one or more times per day,,
+QNFR2,Ate fruit or drank 100% fruit juices two or more times per day,,
+QNVEG0,Did not eat vegetables,,
+QNVEG1,Ate vegetables one or more times per day,,
+QNVEG2,Ate vegetables two or more times per day,,
+QNVEG3,Ate vegetables three or more times per day,,
+QNSODA1,"Drank a can, bottle, or glass of soda or pop one or more times per day",,
+QNSODA2,"Drank a can, bottle, or glass of soda or pop two or more times per day",,
+QNBK7DAY,Ate breakfast on all 7 days,,
+QNPA0DAY,Did not participate in at least 60 minutes of physical activity on at least 1 day,,
+QNPA7DAY,Were physically active at least 60 minutes per day on all 7 days,,
+QNDLYPE,Attended physical education classes on all 5 days,,
+QNNODNT,Never saw a dentist,,
+QNSPDRK1,"Drank a can, bottle, or glass of a sports drink one or more times per day",,
+QNSPDRK2,"Drank a can, bottle, or glass of a sports drink two or more times per day",,
+QNWATER1,Drank a bottle or glass of plain water one or more times per day,,
+QNWATER2,drank a bottle or glass of plain water two or more times per day,,
+QNWATER3,drank a bottle or glass of plain water three or more times per day,,
+QNILLICT,Ever used select illicit drugs,,
+QNOBESE,Had obesity,,
+QNOWT,Were Overweight,,
+WEIGHT,Overall Analysis Weight,,
+STRATUM,Sampling Strata,,
+PSU,Primary Sampling Unit,,
+BMIPCT,Body Mass Index Percentile,,
+RACEETH,Race/Ethnicity,,
+Q6ORIG,Original unedited student height,,
+Q7ORIG,Original unedited student weight,,
+,ไม่มีคำอธิบาย,2,Asian
+,ไม่มีคำอธิบาย,3,Black or African American
+,ไม่มีคำอธิบาย,5,White
+,ไม่มีคำอธิบาย,7,Withdrawal or something else
+,ไม่มีคำอธิบาย,7,Multiple - Hispanic
+,ไม่มีคำอธิบาย,8,Some other way
+,ไม่มีคำอธิบาย,8,Not sure
+,ไม่มีคำอธิบาย,8,Multiple - Non-Hispanic
+,ไม่มีคำอธิบาย,,
+,ไม่มีคำอธิบาย,,
