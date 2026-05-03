@@ -1,0 +1,36 @@
+Feature,Importance
+health_risk,0.09474997
+gender_Male,0.065673806
+feel_hopeless,0.048382796
+ADHD,0.04401191
+school_fight_count,0.043384697
+hours_of_sleep,0.04183831
+fight_count,0.035023145
+sleep_exercise_interaction,0.030799802
+incarcerated_parent,0.029694838
+school_stress_score,0.029480496
+social_media,0.029245459
+violence_exposure_score,0.027816337
+neighborhood_violence,0.027786208
+school_violence_index,0.027695829
+family_protective_score,0.026691739
+sleep_place_Home of parent or gaurdian,0.025358673
+mental_adhd_interaction,0.022898568
+education_level_12th grade,0.022700248
+sleep_place_unknown,0.021736555
+personal_violence,0.021723425
+parent_monitoring,0.021427479
+considered_suicide_Yes,0.021101838
+have_friend,0.020429723
+social_violence_link,0.020204345
+mental_health,0.020176759
+parent_emotional_abuse,0.019696446
+environmental_violence,0.01891487
+considered_suicide_unknown,0.018848456
+bullying_exposure,0.018702265
+school_bullying,0.017911
+cyber_bullying,0.017889254
+education_level_11th grade,0.017660966
+alcohol_progression,0.017433628
+social_engagement,0.016686276
+family_risk_ratio,0.016223833
