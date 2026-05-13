@@ -1,6 +1,0 @@
-Model,Accuracy,Precision,Recall,F1,Type
-XGBoost (3-class grouped),0.7238,0.6459,0.7238,0.6569,Grouped
-XGBoost (basic),0.4444,0.4112,0.4444,0.4005,Baseline
-XGBoost (5-class engineered),0.4326,0.391,0.4326,0.3987,Advanced
-Random Forest (tuned),0.4304,0.3894,0.4304,0.3887,Tuned
-Random Forest (baseline),0.4135,0.3817,0.4135,0.3787,Baseline
